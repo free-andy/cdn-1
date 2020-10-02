@@ -1,3 +1,3 @@
 ### jsdelivr + github
 
-https://cdn.jsdelivr.net/gh/free-andy/cdn/dir/file
+https://cdn.jsdelivr.net/gh/seo-tools-777/cdn/dir/file
